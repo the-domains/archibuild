@@ -1,0 +1,14 @@
+layout_spectrum: 0.5099694
+typography_spectrum: 0.1183292
+color:
+  saturation: 0.3602291
+  lightness: 0.5715511
+  brandStrength: 0.849087
+  brandColors:
+    - '#FFFFFF'
+    - '#D6D0C7'
+    - '#160E0C'
+    - '#6E655C'
+    - '#FB6749'
+  rhythmicContrast: 0.1413208
+name: ArchiBuild
